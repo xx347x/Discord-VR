@@ -14,6 +14,3 @@ from discord.ext import commands
 client = commands.Bot(...)
 ```
 - All you need todo is import `discord_vr` before any discord.py related librarys.
-
-### Contact
-View my contact information on my [telegram](https://t.me/dropoutuwu/)
