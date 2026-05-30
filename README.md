@@ -3,6 +3,8 @@
 
 ```
 pip install -U git+https://github.com/xx347x/Discord-VR
+or
+pip install -U discord-vr
 ```
 
 ```py
