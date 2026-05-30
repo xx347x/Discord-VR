@@ -14,9 +14,7 @@ setup(
     author="xx347x",
     author_email="inquire@upset.bot",
     python_requires=">=3.8",
-    install_requires=[
-        "discord.py>=2.0"
-    ],
+    install_requires=["discord.py>=2.0"],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
