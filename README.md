@@ -2,7 +2,7 @@
 ---------------------------------------
 
 ```
-pip install -U git+https://github.com/dropout1337/Discord-iOS/
+pip install -U git+https://github.com/xx347x/Discord-VR
 ```
 
 ```py
